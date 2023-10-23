@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Rian Fauza</h1>
+### <h1 align="center">Hi 👋, I'm Rian Fauza</h1>
+### <h3 align="center">Universitas Pelita Bangsa</h3>
 
 <!--
 **RianFauza/RianFauza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
