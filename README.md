@@ -1,3 +1,4 @@
+![Web_Programmer_01_generated](https://github.com/RianFauza/RianFauza/assets/115771479/0d3f1bbe-d667-4195-832a-f445128f9bca)
 <h1 align="center">Hi 👋, I'm Rian Fauza</h1>
 <h3 align="center">Programmer Pemula</h3>
 
