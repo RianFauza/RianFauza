@@ -1,6 +1,6 @@
-![Web_Programmer_01_generated](https://github.com/RianFauza/RianFauza/assets/115771479/0d3f1bbe-d667-4195-832a-f445128f9bca)
+![2022-01-27-121137900389-d829f7e5-3506-4d41-a60f-63198aff67db](https://github.com/RianFauza/RianFauza/assets/115771479/b1fad72e-704a-4d8e-bd75-6439d9c21932)
 <h1 align="center">Hi 👋, I'm Rian Fauza</h1>
-<h3 align="center">Programmer Pemula</h3>
+<h3 align="center">Programmer Pemula😜</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
